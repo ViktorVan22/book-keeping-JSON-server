@@ -1,0 +1,156 @@
+{
+  "records": [
+    {
+      "type": "expenditure",
+      "name": "日用",
+      "remark": "",
+      "timeStamp": 1656906959207,
+      "price": 15.78,
+      "id": 1
+    },
+    {
+      "type": "expenditure",
+      "name": "餐饮",
+      "remark": "请客吃饭",
+      "timeStamp": 1656734248744,
+      "price": 375,
+      "id": 3
+    },
+    {
+      "type": "income",
+      "name": "工资",
+      "remark": "我滴血汗钱",
+      "timeStamp": 1656647872822,
+      "price": 10000,
+      "id": 4
+    },
+    {
+      "type": "expenditure",
+      "name": "运动",
+      "remark": "买公路车",
+      "timeStamp": 1656649981654,
+      "price": 3200,
+      "id": 5
+    },
+    {
+      "type": "expenditure",
+      "name": "餐饮",
+      "remark": "吃饭，购物",
+      "timeStamp": 1656822837229,
+      "price": 123,
+      "id": 6
+    },
+    {
+      "type": "expenditure",
+      "name": "住房",
+      "remark": "",
+      "timeStamp": 1656931312064,
+      "price": 15,
+      "id": 7
+    },
+    {
+      "type": "expenditure",
+      "name": "蔬菜",
+      "remark": "有机蔬菜",
+      "timeStamp": 1656932185896,
+      "price": 154,
+      "id": 8
+    },
+    {
+      "type": "expenditure",
+      "name": "购物",
+      "remark": "盒马鲜生",
+      "timeStamp": 1657940966936,
+      "price": 49.9,
+      "id": 9
+    },
+    {
+      "type": "income",
+      "name": "工资",
+      "remark": "补发的绩效",
+      "timeStamp": 1658718593269,
+      "price": 2500,
+      "id": 10
+    },
+    {
+      "type": "expenditure",
+      "name": "礼物",
+      "remark": "外甥生日",
+      "timeStamp": 1658891412107,
+      "price": 300,
+      "id": 11
+    },
+    {
+      "type": "expenditure",
+      "name": "运动",
+      "remark": "运动短袖和短裤",
+      "timeStamp": 1658545829695,
+      "price": 450,
+      "id": 12
+    },
+    {
+      "type": "expenditure",
+      "name": "长辈",
+      "remark": "大姨生日",
+      "timeStamp": 1658373116898,
+      "price": 500,
+      "id": 13
+    },
+    {
+      "type": "expenditure",
+      "name": "社交",
+      "remark": "请客吃饭",
+      "timeStamp": 1658113937330,
+      "price": 289,
+      "id": 14
+    },
+    {
+      "type": "expenditure",
+      "name": "交通",
+      "remark": "地铁",
+      "timeStamp": 1658027571289,
+      "price": 12,
+      "id": 15
+    },
+    {
+      "type": "expenditure",
+      "name": "娱乐",
+      "remark": "龙泉山出游",
+      "timeStamp": 1658027593751,
+      "price": 100,
+      "id": 16
+    },
+    {
+      "type": "expenditure",
+      "name": "水果",
+      "remark": "果盘",
+      "timeStamp": 1658027626894,
+      "price": 88,
+      "id": 17
+    },
+    {
+      "type": "expenditure",
+      "name": "购物",
+      "remark": "盒马鲜生：买很多冰淇淋",
+      "timeStamp": 1658114062021,
+      "price": 162,
+      "id": 18
+    },
+    {
+      "type": "expenditure",
+      "name": "住房",
+      "remark": "房租",
+      "timeStamp": 1657768519100,
+      "price": 2000,
+      "id": 19
+    },
+    {
+      "type": "expenditure",
+      "name": "维修",
+      "remark": "花呗",
+      "timeStamp": 1657250150988,
+      "price": 1000,
+      "id": 20
+    }
+  ]
+}
