@@ -151,6 +151,54 @@
       "timeStamp": 1657250150988,
       "price": 1000,
       "id": 20
+    },
+    {
+      "type": "expenditure",
+      "name": "美容",
+      "remark": "肉毒杆菌",
+      "timeStamp": 1655292268141,
+      "price": 200,
+      "id": 21
+    },
+    {
+      "type": "expenditure",
+      "name": "交通",
+      "remark": "长途大巴",
+      "timeStamp": 1655378689825,
+      "price": 300,
+      "id": 22
+    },
+    {
+      "type": "expenditure",
+      "name": "孩子",
+      "remark": "朋友孩子百日",
+      "timeStamp": 1654687514895,
+      "price": 500,
+      "id": 23
+    },
+    {
+      "type": "expenditure",
+      "name": "办公",
+      "remark": "升降桌",
+      "timeStamp": 1654773945779,
+      "price": 800,
+      "id": 24
+    },
+    {
+      "type": "expenditure",
+      "name": "购物",
+      "remark": "盒马鲜生",
+      "timeStamp": 1657711658387,
+      "price": 30,
+      "id": 25
+    },
+    {
+      "type": "expenditure",
+      "name": "运动",
+      "remark": "买公路车",
+      "timeStamp": 1659094134806,
+      "price": 5000,
+      "id": 26
     }
   ]
 }
